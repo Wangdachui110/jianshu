@@ -27,6 +27,7 @@ npm start
 
 登录页
 ![image](https://github.com/Wangdachui110/jianshu/blob/main/public/pic/%E7%99%BB%E5%BD%95%E9%A1%B5.png)
+
 详情页
 ![image](https://github.com/Wangdachui110/jianshu/blob/main/public/pic/%E8%AF%A6%E6%83%85%E9%A1%B5.png)
 
