@@ -22,6 +22,13 @@ cnpm install
 npm start
 ```
 #### 页面展示
+首页
+![image](https://github.com/Wangdachui110/jianshu/blob/main/public/pic/%E9%A6%96%E9%A1%B51.png)
+
+登录页
+![image](https://github.com/Wangdachui110/jianshu/blob/main/public/pic/%E7%99%BB%E5%BD%95%E9%A1%B5.png)
+详情页
+![image](https://github.com/Wangdachui110/jianshu/blob/main/public/pic/%E8%AF%A6%E6%83%85%E9%A1%B5.png)
 
 #### 我做了哪些功能？
 首页的样式与布局，没有做响应式
